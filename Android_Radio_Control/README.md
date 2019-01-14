@@ -8,25 +8,17 @@ Description
 
 회사 프로젝트로 코드는 없습니다
 
-<br />
-  
 Period
 -------
 2014.1-2014.12 ( 약 11개월 )
-
-<br />
 
 Role
 -----
 안드로이드 개발
 
-<br />
-
 Language
 ---------
 Android(Java), C 
-
-<br />
 
 Develop
 -------
