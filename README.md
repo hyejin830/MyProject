@@ -1,9 +1,34 @@
-h2 나의 프로젝트
-===========
+
+정혜진
+======
+
+Introduction
+-------------
+
+안드로이드 개발자를 희망합니다.
+
+네이티브 앱 개발 경험이 있습니다.
+
+1년간 펌웨어 개발 회사에서 근무한 경험이 있습니다.
+
+Contact
+--------
+
+* E-mail : hyejin_830@naver.com
+* Github : https://github.com/hyejin830
+* Blog : https://blog.naver.com/hyejin_830
 
 
-1. 위치기반 소셜 쇼핑 큐레이션 APP
-2. 교내 중고거래 APP
-3. Matlab을 활용한 포트리스 게임
-4. OpenApi를 활용한 건강 APP
-5. 네이버 검색API 활용한 영화 검색 APP
+My Project
+-----------
+
+1. [안드로이드 기반 무선 RC 조종기 시스템](https://blog.naver.com/hyejin_830)
+
+2. [교내 중고거래 O2O APP]()
+
+3. [Matlab을 활용한 GUI 포트리스 게임]()
+
+4. [OpenApi를 활용한 건강 정보 APP]()
+
+5. [네이버 검색API 활용한 영화 검색 APP]()
+
