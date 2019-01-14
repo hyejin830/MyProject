@@ -33,22 +33,27 @@ Android Studio, MsSql
 
 Develop
 -------
-1. MVC 패턴 적용
-2. 프래그먼트를 활용한 하단 탭 뷰 구현
-3. DB를 활용한 회원가입/로그인/아이디&패스워드 찾기 기능 구현
-4. 카테고리 버튼 커스터마이징
-5. 클라우드 메시징을 활용한 푸시 알림 맟 채팅 기능 구현
-6. 이미지&알림 push 서버 구현
+   * MVC 패턴 적용
+   * 프래그먼트를 활용한 하단 탭 뷰 구현
+   * DB를 활용한 회원가입/로그인/아이디&패스워드 찾기 기능 구현
+   * 상품 등록/수정/상세 액티비티 구현
+   * 상품 별 리스트 액티비티(검색 포함)  
+   * 카테고리 버튼 커스터마이징
+   * 클라우드 메시징을 활용한 푸시 알림 맟 채팅 기능 구현
+   * 이미지&알림 push 서버 구현
 
 SDK & Librarys
 -----------------
 
-targetSdkVersion : 20
+* targetSdkVersion : 20
 
-lib
-* json_simple-1.1 
-* net.sourceforge.jtds.jdbc.Driver
-* firebase-messaging:10.0.1
+* lib
+
+``` 
+- json_simple-1.1 
+- net.sourceforge.jtds.jdbc.Driver
+- firebase-messaging:10.0.1
+``` 
 
 UI
 ---
