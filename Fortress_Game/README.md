@@ -41,7 +41,7 @@ Develop
 
 UI
 ---
-![image1](https://github.com/hyejin830/MyProject/tree/master/Fortress_Game/images/1.JPG)
+![image1](./images/1.jpg)
 
 Testing
 -----
