@@ -20,10 +20,12 @@ x
 Role
 ----
 팀장, 안드로이드 개발
+(총 팀원 4명 : 개발 3명, 디자인 1명)
 
 Language
 ---------
-Android(java), DB
+클라이언트 : Android(java)
+서버(이미지&push) : java, DB
 
 Tool
 -----
@@ -31,12 +33,22 @@ Android Studio, MsSql
 
 Develop
 -------
-1. 팀장 역할 수행
-   * 설계, 요구 명세서 문서화
-2. 프래그먼트를 활용한 탭 뷰 구현 (100%)
-   * 전체 앱에서 스와이프/탭 클릭으로 탭 뷰 간의 이동이 가능
-3. 상품 코드마다 리스트 액티비티 이동
-4. 프로젝트 관리 및 통합
+1. MVC 패턴 적용
+2. 프래그먼트를 활용한 하단 탭 뷰 구현
+3. DB를 활용한 회원가입/로그인/아이디&패스워드 찾기 기능 구현
+4. 카테고리 버튼 커스터마이징
+5. 클라우드 메시징을 활용한 푸시 알림 맟 채팅 기능 구현
+6. 이미지&알림 push 서버 구현
+
+SDK & Librarys
+-----------------
+
+targetSdkVersion : 20
+
+lib
+* json_simple-1.1 
+* net.sourceforge.jtds.jdbc.Driver
+* firebase-messaging:10.0.1
 
 UI
 ---
