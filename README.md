@@ -26,7 +26,7 @@ My Project
 
 1. [안드로이드 기반 무선 RC 조종기 시스템](https://github.com/hyejin830/MyProject/tree/master/Android_Radio_Control)
 
-2. [교내 중고거래 O2O APP](https://github.com/hyejin830/MyProject/tree/master/Used_Transaction)
+2. [교내 중고거래 O2O APP](https://github.com/hyejin830/MyProject/tree/master/Used_Transactions)
 
 3. [Matlab을 활용한 GUI 포트리스 게임](https://github.com/hyejin830/MyProject/tree/master/Fortress_Game)
 
