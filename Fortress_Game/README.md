@@ -43,28 +43,18 @@ Develop
 
 UI
 ---
-![image1](https://github.com/hyejin830/MyProject/blob/master/Fortress_Game/images/1.JPG)
+
+<img src="./images/1.JPG" width="400" height="250"> | <img src="./images/2.JPG" width="400" height="250">
 
 
-![image2](https://github.com/hyejin830/MyProject/blob/master/Fortress_Game/images/2.JPG)
+<img src="./images/3.JPG" width="400" height="250"> | <img src="./images/4.JPG" width="400" height="250">
 
 
-![image3](https://github.com/hyejin830/MyProject/blob/master/Fortress_Game/images/3.JPG)
+<img src="./images/5.JPG" width="400" height="250"> | <img src="./images/6.JPG" width="400" height="250">
 
 
-![image4](https://github.com/hyejin830/MyProject/blob/master/Fortress_Game/images/4.JPG)
+<img src="./images/7.jpg" width="400" height="250"> | <img src="./images/8.JPG" width="400" height="250">
 
-
-![image5](https://github.com/hyejin830/MyProject/blob/master/Fortress_Game/images/5.JPG)
-
-
-![image6](https://github.com/hyejin830/MyProject/blob/master/Fortress_Game/images/6.JPG)
-
-
-![image7](https://github.com/hyejin830/MyProject/blob/master/Fortress_Game/images/7.jpg)
-
-
-![image8](https://github.com/hyejin830/MyProject/blob/master/Fortress_Game/images/8.JPG)
 
 Testing
 -----
