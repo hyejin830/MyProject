@@ -1,6 +1,8 @@
 Matlab을 활용한 GUI 포트리스 게임
 =====================
 
+Github : https://github.com/hyejin830/Fortress_Game
+
 Description
 ------------
 2명의 유저를 선택하여 포트리스 게임을 할 수 있는 프로그램입니다.
