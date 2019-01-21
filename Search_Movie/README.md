@@ -33,9 +33,9 @@ Develop
 - 네이버 검색 API 활용(Json+Volley)
 - RecyclerView로 리스트 구현
 - 웹 뷰를 활용하여 link 페이지 이동
+- 유효하지 않은 검색어인 경우 검색결과 처리
+- 검색어 입력하지 않은 경우 처리
 
 UI
 ---
-
-Testing
------
+<img src="./images/1.jpg" width="150" height="300"> | <img src="./images/2.jpg" width="150" height="300"> | <img src="./images/3.jpg" width="150" height="300"> | <img src="./images/4.jpg" width="150" height="300"> | <img src="./images/5.jpg" width="150" height="300">
