@@ -1,6 +1,8 @@
 교내 중고거래 O2O APP
 =====================
 
+Github : https://github.com/hyejin830/Used_Transaction
+
 Description
 ------------
 학교 내에서 학생들이 중고 거래를 편리하게 할 수 있는 어플리케이션입니다.
