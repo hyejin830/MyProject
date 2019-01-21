@@ -1,6 +1,8 @@
 OpenApi를 활용한 건강 정보 APP
 =====================
 
+Github : https://github.com/hyejin830/Jeonju_Health
+
 Description
 ------------
 전주시 공공데이터를 활용하여 시민들에게 운동 장소 및 건강 관련 기관 정보를 제공하는 애플리케이션입니다.
